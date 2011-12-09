@@ -1,9 +1,9 @@
 SplineFontDB: 3.0
-FontName: Mallige
-FullName: Mallige
-FamilyName: Mallige
+FontName: Navilu
+FullName: Navilu
+FamilyName: Navilu
 Weight: Normal
-Copyright: Kannada Unicode Handwriting FONT\nCopyright (C) 2005, Indian Institute of Science,Bangalore.\nCopyright (C) 2011, Aravinda VK <hallimanearavind@gmail.com>\n\nThis program is free software: you can redistribute it and/or modify\nit under the terms of the GNU General Public License as published by\nthe Free Software Foundation, either version 3 of the License, or\n(at your option) any later version.\n\nThis program is distributed in the hope that it will be useful,\nbut WITHOUT ANY WARRANTY; without even the implied warranty of\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\nGNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License\nalong with this program.  If not, see <http://www.gnu.org/licenses/>.
+Copyright: Navilu - Kannada Unicode Handwriting FONT\n\nCopyright (C) 2005-2010, Indian Institute of Science,Bangalore.\nCopyright (C) 2011, Aravinda VK <hallimanearavind@gmail.com>\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is copied below, and is also available with a FAQ at:\nhttp://scripts.sil.org/OFL
 Version: 2
 ItalicAngle: 0
 UnderlinePosition: -288
@@ -14,14 +14,13 @@ sfntRevision: 0x00010000
 LayerCount: 2
 Layer: 0 1 "Back"  1
 Layer: 1 1 "Fore"  0
-NeedsXUIDChange: 1
 XUID: [1021 469 1286364722 9973768]
 FSType: 8
 OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1062090407
-ModificationTime: 1323443839
+ModificationTime: 1323458950
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -214,7 +213,7 @@ ShortTable: maxp 16
   0
   0
 EndShort
-LangName: 1033 "+AKkA 2005, Indian Institute of Science,Bangalore.Distributed under the GNU General Public License (GPL) ." "" "" "" "" "Version 1.06" "" "" "Indian Institute of Science,Bangalore." "" "" "http://www.iisc.ernet.in" 
+LangName: 1033 "+AKkA 2005, Indian Institute of Science,Bangalore.+AAoAqQAA 2011, Aravinda VK <hallimanearavind@gmail.com>" "" "" "" "" "Version 2" "" "" "Indian Institute of Science,Bangalore." "" "" "http://www.iisc.ernet.in" "" "Copyright (C) 2005-2010, Indian Institute of Science,Bangalore.+AAoA-Copyright (c) 2011, Aravinda (<http://aravindavk.in|hallimanearavind@gmail.com>),+AAoA-with Reserved Font Name Navilu.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" 
 Encoding: Custom
 Compacted: 1
 UnicodeInterp: none
@@ -7032,7 +7031,7 @@ SplineSet
  768 284 768 284 768 375 c 0,84,85
  768 389 768 389 772 403 c 1,70,71
 EndSplineSet
-Validated: 2097185
+Validated: 33
 EndChar
 
 StartChar: glyph132
@@ -7088,7 +7087,7 @@ SplineSet
  203 128 203 128 270 127 c 0,75,76
  379 125 379 125 526 297 c 1,66,67
 EndSplineSet
-Validated: 2097185
+Validated: 33
 EndChar
 
 StartChar: glyph133
@@ -7139,7 +7138,7 @@ SplineSet
  995 661 995 661 995 440 c 2,71,-1
  995 408 l 2,0,1
 EndSplineSet
-Validated: 2097153
+Validated: 1
 EndChar
 
 StartChar: glyph134
@@ -7244,7 +7243,7 @@ SplineSet
  607 668 607 668 657 668 c 1,163,164
  743 677 743 677 743 762 c 0,154,155
 EndSplineSet
-Validated: 2097189
+Validated: 37
 EndChar
 
 StartChar: glyph135
@@ -7318,7 +7317,7 @@ SplineSet
  1158 566 1158 566 1210 487 c 0,108,109
  1251 426 1251 426 1251 319 c 0,10,11
 EndSplineSet
-Validated: 2097185
+Validated: 33
 EndChar
 
 StartChar: glyph136
@@ -7407,7 +7406,7 @@ SplineSet
  1364 758 1364 758 1409 707 c 1,137,138
  1458 660 1458 660 1460 618 c 0,0,1
 EndSplineSet
-Validated: 2097185
+Validated: 33
 EndChar
 
 StartChar: glyph137
@@ -7480,7 +7479,7 @@ SplineSet
  653 -216 653 -216 664 -236 c 0,109,110
  665 -237 665 -237 668 -248 c 1,83,84
 EndSplineSet
-Validated: 2097185
+Validated: 33
 EndChar
 
 StartChar: glyph138
@@ -7551,7 +7550,7 @@ SplineSet
  1172 562 1172 562 1221 483 c 0,103,104
  1262 417 1262 417 1262 315 c 0,0,1
 EndSplineSet
-Validated: 2097185
+Validated: 33
 EndChar
 
 StartChar: glyph139
@@ -7655,7 +7654,7 @@ SplineSet
  609 139 609 139 710.5 208 c 128,-1,167
  812 277 812 277 815 395 c 0,152,153
 EndSplineSet
-Validated: 2097185
+Validated: 33
 EndChar
 
 StartChar: glyph140
@@ -7726,7 +7725,7 @@ SplineSet
  539 128 539 128 580 127 c 0,104,105
  698 125 698 125 883 250 c 1,95,96
 EndSplineSet
-Validated: 2097185
+Validated: 33
 EndChar
 
 StartChar: glyph141
@@ -7794,7 +7793,7 @@ SplineSet
  1236 655 1236 655 1282 578 c 0,102,103
  1323 508 1323 508 1323 418 c 0,0,1
 EndSplineSet
-Validated: 2097185
+Validated: 33
 EndChar
 
 StartChar: glyph142
@@ -7844,7 +7843,7 @@ SplineSet
  514 596 514 596 545 559 c 0,65,66
  569 529 569 529 569 487 c 0,52,53
 EndSplineSet
-Validated: 2097185
+Validated: 33
 EndChar
 
 StartChar: glyph143
@@ -7904,7 +7903,7 @@ SplineSet
  831 122 831 122 911 119 c 1,88,89
  1143 153 1143 153 1143 289 c 0,49,50
 EndSplineSet
-Validated: 2097185
+Validated: 33
 EndChar
 
 StartChar: glyph144
@@ -7979,7 +7978,7 @@ SplineSet
  831 122 831 122 911 119 c 1,113,114
  1143 153 1143 153 1143 289 c 0,74,75
 EndSplineSet
-Validated: 2097185
+Validated: 33
 EndChar
 
 StartChar: glyph145
@@ -8054,7 +8053,7 @@ SplineSet
  1072 123 1072 123 1130 287 c 0,112,113
  1138 307 1138 307 1143 330 c 1,102,103
 EndSplineSet
-Validated: 2097185
+Validated: 33
 EndChar
 
 StartChar: glyph146
@@ -8106,7 +8105,7 @@ SplineSet
  508 480 508 480 584 532 c 1,69,70
  655 582 655 582 678 616 c 1,61,-1
 EndSplineSet
-Validated: 2097185
+Validated: 33
 EndChar
 
 StartChar: glyph147
@@ -8176,7 +8175,7 @@ SplineSet
  577 797 577 797 668 797 c 0,99,100
  768 797 768 797 768 705 c 0,93,94
 EndSplineSet
-Validated: 2097185
+Validated: 33
 EndChar
 
 StartChar: glyph148
@@ -8226,7 +8225,7 @@ SplineSet
  1042 137 1042 137 1102 246 c 0,66,67
  1149 331 1149 331 1149 457 c 0,39,40
 EndSplineSet
-Validated: 2097185
+Validated: 33
 EndChar
 
 StartChar: glyph149
@@ -8291,7 +8290,7 @@ SplineSet
  1042 137 1042 137 1102 246 c 0,91,92
  1149 331 1149 331 1149 457 c 0,64,65
 EndSplineSet
-Validated: 2097185
+Validated: 33
 EndChar
 
 StartChar: glyph150
@@ -8339,7 +8338,7 @@ SplineSet
  679 940 679 940 885 756 c 0,65,66
  1102 561 1102 561 1102 381 c 0,0,1
 EndSplineSet
-Validated: 2097185
+Validated: 33
 EndChar
 
 StartChar: glyph151
@@ -8413,7 +8412,7 @@ SplineSet
  579 675 579 675 625 674 c 0,104,105
  717 672 717 672 717 774 c 0,95,96
 EndSplineSet
-Validated: 2097185
+Validated: 33
 EndChar
 
 StartChar: glyph152
@@ -8501,7 +8500,7 @@ SplineSet
  455 -205 455 -205 479 -268 c 0,131,132
  506 -338 506 -338 547 -340 c 0,110,111
 EndSplineSet
-Validated: 2097193
+Validated: 41
 EndChar
 
 StartChar: glyph153
@@ -8561,7 +8560,7 @@ SplineSet
  1080 926 1080 926 1165 766 c 0,86,87
  1243 618 1243 618 1243 436 c 0,0,1
 EndSplineSet
-Validated: 2097185
+Validated: 33
 EndChar
 
 StartChar: glyph154
@@ -8637,7 +8636,7 @@ SplineSet
  634 -213 634 -213 647 -229 c 1,113,-1
  662 -242 l 1,88,89
 EndSplineSet
-Validated: 2097185
+Validated: 33
 EndChar
 
 StartChar: glyph155
@@ -8720,7 +8719,7 @@ SplineSet
  1866 1119 1866 1119 2036 1130 c 1,129,-1
  2044 1001 l 1,0,1
 EndSplineSet
-Validated: 2097185
+Validated: 33
 EndChar
 
 StartChar: glyph156
@@ -8790,7 +8789,7 @@ SplineSet
  596 139 596 139 698 307 c 1,105,106
  785 448 785 448 786 618 c 1,91,92
 EndSplineSet
-Validated: 2097185
+Validated: 33
 EndChar
 
 StartChar: glyph157
@@ -8833,7 +8832,7 @@ SplineSet
  609 139 609 139 710.5 208 c 128,-1,54
  812 277 812 277 815 395 c 0,39,40
 EndSplineSet
-Validated: 2097185
+Validated: 33
 EndChar
 
 StartChar: glyph158
@@ -8907,7 +8906,7 @@ SplineSet
  1249 528 1249 528 1257 555 c 1,98,99
  1264 586 1264 586 1264 602 c 1,64,65
 EndSplineSet
-Validated: 2097185
+Validated: 33
 EndChar
 
 StartChar: glyph159
@@ -8953,7 +8952,7 @@ SplineSet
  1231 702 1231 702 1231 563 c 2,59,-1
  1231 535 l 2,0,1
 EndSplineSet
-Validated: 2097185
+Validated: 33
 EndChar
 
 StartChar: glyph160
@@ -9014,7 +9013,7 @@ SplineSet
  556 123 556 123 627 160 c 0,88,89
  704 200 704 200 713 248 c 1,76,77
 EndSplineSet
-Validated: 2097185
+Validated: 33
 EndChar
 
 StartChar: glyph161
@@ -9071,7 +9070,7 @@ SplineSet
  913 961 913 961 1094 825 c 0,78,79
  1290 678 1290 678 1290 449 c 0,0,1
 EndSplineSet
-Validated: 2097185
+Validated: 33
 EndChar
 
 StartChar: exclamdown
@@ -16680,7 +16679,7 @@ SplineSet
  939 141 939 141 1020 246 c 0,104,105
  1096 344 1096 344 1096 428 c 0,56,57
 EndSplineSet
-Validated: 2097185
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" A Y
 EndChar
 
@@ -16763,7 +16762,7 @@ SplineSet
  946 139 946 139 1023 242.5 c 128,-1,124
  1100 346 1100 346 1100 426 c 0,80,81
 EndSplineSet
-Validated: 2097185
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" B Y
 EndChar
 
@@ -16859,7 +16858,7 @@ SplineSet
  984 135 984 135 991 135 c 0,147,148
  1068 141 1068 141 1145 397 c 1,135,136
 EndSplineSet
-Validated: 2097185
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" C Y
 EndChar
 
@@ -16922,7 +16921,7 @@ SplineSet
  527 475 527 475 594 524 c 0,91,92
  656 570 656 570 684 608 c 1,79,80
 EndSplineSet
-Validated: 2097185
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" D Y
 EndChar
 
@@ -17002,7 +17001,7 @@ SplineSet
  509 797 509 797 602 797 c 0,115,116
  702 797 702 797 702 705 c 0,109,110
 EndSplineSet
-Validated: 2097185
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" E Y
 EndChar
 
@@ -17062,7 +17061,7 @@ SplineSet
  965 139 965 139 1030 252 c 0,81,82
  1081 339 1081 339 1081 479 c 1,51,52
 EndSplineSet
-Validated: 2097185
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" F Y
 EndChar
 
@@ -17137,7 +17136,7 @@ SplineSet
  965 139 965 139 1030 252 c 0,107,108
  1081 339 1081 339 1081 479 c 1,77,78
 EndSplineSet
-Validated: 2097185
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" G Y
 EndChar
 
@@ -17192,7 +17191,7 @@ SplineSet
  238 866 238 866 340 866 c 0,75,76
  484 866 484 866 666 1038 c 1,67,68
 EndSplineSet
-Validated: 2097185
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" H Y
 EndChar
 
@@ -17274,7 +17273,7 @@ SplineSet
  773 963 773 963 780 973 c 1,121,122
  780 993 780 993 782 1016 c 1,104,105
 EndSplineSet
-Validated: 2097185
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" I Y
 EndChar
 
@@ -17371,7 +17370,7 @@ SplineSet
  773 963 773 963 780 973 c 1,146,147
  780 993 780 993 782 1016 c 1,129,130
 EndSplineSet
-Validated: 2097185
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" J Y
 EndChar
 
@@ -17480,7 +17479,7 @@ SplineSet
  579 675 579 675 625 674 c 0,170,171
  717 672 717 672 717 774 c 0,161,162
 EndSplineSet
-Validated: 2097185
+Validated: 33
 EndChar
 
 StartChar: glyph142
@@ -17608,7 +17607,7 @@ SplineSet
  579 675 579 675 625 674 c 0,207,208
  717 672 717 672 717 774 c 0,198,199
 EndSplineSet
-Validated: 2097185
+Validated: 33
 EndChar
 
 StartChar: glyph143
@@ -17744,7 +17743,7 @@ SplineSet
  579 675 579 675 625 674 c 0,221,222
  717 672 717 672 717 774 c 0,212,213
 EndSplineSet
-Validated: 2097185
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 13 subtable" glyph152 underscore backslash
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 7 subtable" J underscore backslash
 EndChar
@@ -17816,7 +17815,7 @@ SplineSet
  881 990 881 990 911 989 c 0,102,103
  999 987 999 987 1073 1042 c 1,92,93
 EndSplineSet
-Validated: 2097185
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" K Y
 EndChar
 
@@ -17904,7 +17903,7 @@ SplineSet
  881 990 881 990 911 989 c 0,130,131
  999 987 999 987 1073 1042 c 1,120,121
 EndSplineSet
-Validated: 2097185
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" L Y
 EndChar
 
@@ -17985,7 +17984,7 @@ SplineSet
  322 845 322 845 399 838 c 1,122,123
  500 838 500 838 672 1010 c 1,112,113
 EndSplineSet
-Validated: 2097185
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" M Y
 EndChar
 
@@ -18075,7 +18074,7 @@ SplineSet
  897 1185 897 1185 936 1143 c 1,142,143
  1038 1174 1038 1174 1038 1237 c 0,136,137
 EndSplineSet
-Validated: 2097185
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 12 subtable" glyph155 underscore
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 9 subtable" M underscore
 EndChar
@@ -18197,7 +18196,7 @@ SplineSet
  897 1185 897 1185 936 1143 c 1,200,201
  1038 1174 1038 1174 1038 1237 c 0,194,195
 EndSplineSet
-Validated: 2097185
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 12 subtable" glyph155 a
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 9 subtable" M a
 EndChar
@@ -18277,7 +18276,7 @@ SplineSet
  586 135 586 135 686 279 c 0,120,121
  767 395 767 395 782 567 c 1,106,107
 EndSplineSet
-Validated: 2097185
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" N Y
 EndChar
 
@@ -18360,7 +18359,7 @@ SplineSet
  583 129 583 129 686 274 c 0,127,128
  767 389 767 389 782 563 c 1,113,114
 EndSplineSet
-Validated: 2097185
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 12 subtable" glyph156 underscore
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 9 subtable" N underscore
 EndChar
@@ -18475,7 +18474,7 @@ SplineSet
  583 129 583 129 686 274 c 0,183,184
  767 389 767 389 782 563 c 1,169,170
 EndSplineSet
-Validated: 2097185
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 12 subtable" glyph156 a
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 9 subtable" N a
 EndChar
@@ -18528,7 +18527,7 @@ SplineSet
  761 366 761 366 780 532 c 1,67,68
  780 545 780 545 782 559 c 1,52,-1
 EndSplineSet
-Validated: 2097185
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" O Y
 EndChar
 
@@ -18578,7 +18577,7 @@ SplineSet
  784 985 784 985 870 985 c 1,65,66
  956 995 956 995 1010 1063 c 1,59,60
 EndSplineSet
-Validated: 2097185
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" Q Y
 EndChar
 
@@ -18650,7 +18649,7 @@ SplineSet
  555 138 555 138 629 172 c 128,-1,104
  703 206 703 206 709 256 c 0,94,95
 EndSplineSet
-Validated: 2097185
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" R Y
 EndChar
 
@@ -18717,7 +18716,7 @@ SplineSet
  399 838 l 1,92,93
  500 838 500 838 672 1010 c 1,81,82
 EndSplineSet
-Validated: 2097189
+Validated: 37
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" S Y
 EndChar
 
@@ -18775,7 +18774,7 @@ SplineSet
  946 373 946 373 965 547 c 1,81,82
  965 563 965 563 967 575 c 1,56,57
 EndSplineSet
-Validated: 2097185
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" T Y
 EndChar
 
@@ -18873,7 +18872,7 @@ SplineSet
  770 965 770 965 780 979 c 1,147,148
  780 999 780 999 782 1022 c 1,131,132
 EndSplineSet
-Validated: 2097185
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" U Y
 EndChar
 
@@ -18942,7 +18941,7 @@ SplineSet
  482 976 482 976 518 973 c 1,100,101
  584 973 584 973 657 1034 c 1,92,93
 EndSplineSet
-Validated: 2097185
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" V Y
 EndChar
 
@@ -19010,7 +19009,7 @@ SplineSet
  237 139 237 139 315 139 c 0,96,97
  443 139 443 139 625 395 c 1,88,89
 EndSplineSet
-Validated: 2097185
+Validated: 33
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 8 subtable" W Y
 EndChar
 
@@ -19122,7 +19121,7 @@ SplineSet
  844 318 844 318 850 428 c 0,176,177
  850 436 850 436 852 463 c 1,161,162
 EndSplineSet
-Validated: 2097185
+Validated: 33
 EndChar
 
 StartChar: glyph161
@@ -19256,7 +19255,7 @@ SplineSet
  444 -635 444 -635 537 -635 c 1,219,220
  602 -626 602 -626 707 -604 c 1,213,214
 EndSplineSet
-Validated: 2097185
+Validated: 33
 EndChar
 
 StartChar: glyph162
@@ -27064,7 +27063,7 @@ EndChar
 StartChar: U25CC
 Encoding: 9676 9676 548
 Width: 1548
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
