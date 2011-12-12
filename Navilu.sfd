@@ -19,7 +19,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1062090407
-ModificationTime: 1323627582
+ModificationTime: 1323698981
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -220,7 +220,7 @@ NameList: Adobe Glyph List
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 88 8 2
+WinInfo: 91 13 5
 BeginPrivate: 0
 EndPrivate
 BeginChars: 65977 549
@@ -6511,7 +6511,7 @@ SplineSet
  446 666 446 666 446 516 c 0,0,1
 EndSplineSet
 Validated: 33
-Substitution2: "Single Substitution lookup 19 subtable" bracketleft
+Substitution2: "Single Substitution lookup 19 subtable" v
 EndChar
 
 StartChar: y

@@ -1,3 +1,6 @@
+2011-12-12 Aravinda VK <hallimanearavind@gmail.com>
+	* v1.1 Fixed GSUB issue to display ವು(U0CB5 + U0CC1), ಪು(U0CAA + U0CC1), ಫು(U0CAB + U0CC1)
+
 2011-12-09 Aravinda VK <hallimanearavind@gmail.com>
 	* v1.0 Initial Release, Generated source sfd from ttf using Fontforge
 	* Added glyph U+25CC. Closes: #429298 http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=429298
