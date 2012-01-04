@@ -1,0 +1,20 @@
+#!/bin/sh
+if [ $# -ne 1 ]
+then
+  echo "Usage: $0 <version>"
+  exit $E_BADARGS
+fi
+
+rm -rf /tmp/navilu-kannada-ttf-$1
+mkdir /tmp/navilu-kannada-ttf-$1
+cp ../ChangeLog ../COPYING ../Navilu.ttf ../README /tmp/navilu-kannada-ttf-$1/
+
+rm -rf /tmp/navilu-kannada-$1
+mkdir /tmp/navilu-kannada-$1
+cp ../ChangeLog ../COPYING ../Navilu.sfd ../generate.pe ../Makefile ../README /tmp/navilu-kannada-$1/
+
+cd /tmp/
+tar -cvzf navilu-kannada-ttf-$1.tar.gz navilu-kannada-ttf-$1/
+tar -cvzf navilu-kannada-$1.tar.gz navilu-kannada-$1/
+rm -rf navilu-kannada-ttf-$1
+rm -rf navilu-kannada-$1
