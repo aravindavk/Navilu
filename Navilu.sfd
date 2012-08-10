@@ -3,8 +3,8 @@ FontName: Navilu
 FullName: Navilu
 FamilyName: Navilu
 Weight: Normal
-Copyright: Navilu - Kannada Unicode Handwriting FONT\n\nCopyright (C) 2005-2010, Indian Institute of Science,Bangalore.\nCopyright (C) 2011, Aravinda VK <hallimanearavind@gmail.com>\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is copied below, and is also available with a FAQ at:\nhttp://scripts.sil.org/OFL
-Version: 1.1
+Copyright: Navilu - Kannada Unicode Handwriting FONT\n\nCopyright (C) 2005-2010, Indian Institute of Science,Bangalore.\nCopyright (C) 2011-2012, Aravinda VK <hallimanearavind@gmail.com> http://aravindavk.in\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is copied below, and is also available with a FAQ at:\nhttp://scripts.sil.org/OFL
+Version: 1.2
 ItalicAngle: 0
 UnderlinePosition: -288
 UnderlineWidth: 64
@@ -13,13 +13,12 @@ Descent: 410
 LayerCount: 2
 Layer: 0 1 "Back"  1
 Layer: 1 1 "Fore"  0
-NeedsXUIDChange: 1
 FSType: 8
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1062090407
-ModificationTime: 1325683018
+ModificationTime: 1344622239
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -212,7 +211,7 @@ ShortTable: maxp 16
   0
   0
 EndShort
-LangName: 1033 "+AKkA 2005, Indian Institute of Science,Bangalore.+AAoAqQAA 2011, Aravinda VK <hallimanearavind@gmail.com>" "" "" "" "" "Version 1.1" "" "" "Indian Institute of Science,Bangalore." "" "" "http://www.iisc.ernet.in" "" "Copyright (C) 2005-2010, Indian Institute of Science,Bangalore.+AAoA-Copyright (c) 2011, Aravinda (<http://aravindavk.in|hallimanearavind@gmail.com>),+AAoA-with Reserved Font Name Navilu.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" 
+LangName: 1033 "+AKkA 2011-2012, Aravinda VK <hallimanearavind@gmail.com> http://aravindavk.in+AAoAqQAA 2005, Indian Institute of Science,Bangalore.+AAoA" "" "" "" "" "Version 1.2" "" "" "Aravinda" "" "" "http://aravindavk.in" "" "Copyright (c) 2011-2012, Aravinda <hallimanearavind@gmail.com> http://aravindavk.in,+AAoA-Copyright (C) 2005-2010, Indian Institute of Science,Bangalore.+AAoA-with Reserved Font Name Navilu.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" 
 Encoding: Custom
 Compacted: 1
 UnicodeInterp: none
@@ -220,7 +219,7 @@ NameList: Adobe Glyph List
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 91 13 5
+WinInfo: 351 13 5
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 307200 153600 102400 0 -1048576 102400 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -23491,6 +23490,7 @@ SplineSet
  1038 1174 1038 1174 1038 1237 c 0,180,181
 EndSplineSet
 Validated: 33
+LCarets2: 2 0 0 
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 13 subtable" glyph161 underscore backslash
 Ligature2: "'abvs' Above Base Substitutions in Kannada lookup 7 subtable" S underscore backslash
 EndChar
@@ -25828,20 +25828,176 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: glyph242
-Encoding: 65818 -1 389
-Width: 2048
+StartChar: U0C8C
+Encoding: 65818 3212 389
+Width: 2162
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Fore
+SplineSet
+1700.53 1255.48 m 1,0,1
+ 1819.92 1255.48 1819.92 1255.48 1942.78 1111.95 c 0,2,3
+ 2027.82 1011.97 2027.82 1011.97 2071.41 905.292 c 0,4,5
+ 2132.25 757.199 2132.25 757.199 2132.25 584.917 c 0,6,7
+ 2132.25 342.644 2132.25 342.644 2022.03 178.448 c 0,8,9
+ 1898.02 -7.5625 1898.02 -7.5625 1662.63 -7.55176 c 0,10,11
+ 1522.85 -7.55176 1522.85 -7.55176 1410.06 45.417 c 0,12,13
+ 1364.36 66.0781 1364.36 66.0781 1316.83 116.316 c 128,-1,14
+ 1269.31 166.555 1269.31 166.555 1231.84 231.229 c 128,-1,15
+ 1194.37 295.903 1194.37 295.903 1173.84 374.841 c 128,-1,16
+ 1153.31 453.777 1153.31 453.777 1160.92 524.582 c 0,17,18
+ 1164.75 560.261 1164.75 560.261 1179.71 591.236 c 128,-1,19
+ 1194.67 622.213 1194.67 622.213 1212.9 644.682 c 128,-1,20
+ 1231.13 667.15 1231.13 667.15 1248.78 689.832 c 128,-1,21
+ 1266.43 712.515 1266.43 712.515 1277.87 742.095 c 128,-1,22
+ 1289.32 771.676 1289.32 771.676 1288.47 806.386 c 0,23,24
+ 1286.17 909.739 1286.17 909.739 1239.09 987.823 c 1,25,26
+ 1175.94 1064.75 1175.94 1064.75 1077.19 1064.76 c 1,27,28
+ 1002.61 1057.88 1002.61 1057.88 953.188 1025.7 c 0,29,30
+ 904.963 993.546 904.963 993.546 832.626 862.667 c 0,31,32
+ 776.363 761.623 776.363 761.623 684.501 761.604 c 1,33,34
+ 635.242 781.076 635.242 781.076 631.688 783.448 c 0,35,36
+ 613.312 801.823 613.312 801.823 613.313 806.386 c 0,37,38
+ 613.312 825.903 613.312 825.903 622.501 860.354 c 1,39,40
+ 622.5 879.872 622.5 879.872 631.688 895.948 c 1,41,42
+ 638.529 916.473 638.529 916.473 639.72 921.229 c 1,43,44
+ 599.532 1064.75 599.532 1064.75 453.72 1064.76 c 0,45,46
+ 353.825 1064.76 353.825 1064.76 271.157 993.542 c 0,47,48
+ 189.626 922.343 189.626 922.343 189.626 822.479 c 1,49,50
+ 211.449 761.603 211.449 761.603 258.532 761.604 c 0,51,52
+ 274.595 761.603 274.595 761.603 310.188 726.012 c 1,53,54
+ 305.595 691.563 305.595 691.563 261.97 650.229 c 0,55,56
+ 218.337 610.041 218.337 610.041 189.626 611.198 c 0,57,58
+ 27.7275 616.938 27.7275 616.938 30.0322 841.979 c 0,59,60
+ 32.3291 1022.25 32.3291 1022.25 150.595 1116.42 c 0,61,62
+ 273.453 1215.16 273.453 1215.16 453.72 1215.17 c 1,63,64
+ 508.814 1207.13 508.814 1207.13 566.251 1187.6 c 0,65,66
+ 724.703 1132.49 724.703 1132.49 738.47 1028.01 c 1,67,68
+ 855.587 1215.17 855.587 1215.17 1077.19 1215.17 c 0,69,70
+ 1257.46 1215.17 1257.46 1215.17 1357.38 1106.07 c 128,-1,71
+ 1457.27 996.992 1457.27 996.992 1457.25 822.479 c 0,72,73
+ 1457.25 783.896 1457.25 783.896 1442.76 742.884 c 128,-1,74
+ 1428.27 701.871 1428.27 701.871 1408.08 666.182 c 128,-1,75
+ 1387.9 630.492 1387.9 630.492 1368.08 594.231 c 128,-1,76
+ 1348.27 557.972 1348.27 557.972 1335.89 516.008 c 128,-1,77
+ 1323.52 474.044 1323.52 474.044 1326.38 433.368 c 0,78,79
+ 1330.38 376.406 1330.38 376.406 1353.99 324.906 c 128,-1,80
+ 1377.61 273.407 1377.61 273.407 1418.76 232.589 c 128,-1,81
+ 1459.92 191.77 1459.92 191.77 1525.12 171.249 c 128,-1,82
+ 1590.32 150.728 1590.32 150.728 1669.53 158.948 c 1,83,84
+ 1811.91 157.8 1811.91 157.8 1883.09 309.354 c 0,85,86
+ 1937.06 424.175 1937.06 424.175 1937.06 584.917 c 0,87,88
+ 1937.06 892.637 1937.06 892.637 1721.19 1074.07 c 1,89,90
+ 1652.3 1029.29 1652.3 1029.29 1582.25 1029.29 c 0,91,92
+ 1520.25 1029.29 1520.25 1029.29 1505.31 1130.32 c 0,93,94
+ 1501.87 1152.14 1501.87 1152.14 1547.81 1191.2 c 1,95,96
+ 1565.03 1213 1565.03 1213 1608.66 1233.67 c 1,97,98
+ 1641.93 1247.43 1641.93 1247.43 1700.53 1255.48 c 1,0,1
+EndSplineSet
 EndChar
 
-StartChar: glyph243
-Encoding: 65819 -1 390
-Width: 2048
+StartChar: U0CE1
+Encoding: 65819 3297 390
+Width: 2986
 GlyphClass: 2
 Flags: W
 LayerCount: 2
+Fore
+SplineSet
+1453.57 144.339 m 1,0,1
+ 1501.78 144.339 1501.78 144.339 1549.17 186.611 c 128,-1,2
+ 1596.57 228.883 1596.57 228.883 1630.06 310.433 c 0,3,4
+ 1679.53 431.855 1679.53 431.855 1694.18 557.984 c 0,5,6
+ 1730.16 850.255 1730.16 850.255 1902.11 1027.75 c 0,7,8
+ 2087.54 1218.79 2087.54 1218.79 2321.21 1218.79 c 0,9,10
+ 2527.89 1218.79 2527.89 1218.79 2654.8 1034.59 c 0,11,12
+ 2761.55 878.396 2761.55 878.396 2764.93 654.734 c 0,13,-1
+ 2765.41 654.242 l 1,14,15
+ 2842.9 650.871 2842.9 650.871 2901.23 612.732 c 0,16,17
+ 2954.99 578.014 2954.99 578.014 2956.11 532.164 c 0,18,19
+ 2958.33 455.081 2958.33 455.081 2921.74 436.003 c 1,20,21
+ 2881.3 452.868 2881.3 452.868 2862.41 463.986 c 0,22,23
+ 2823.03 486.491 2823.03 486.491 2811.72 488.796 c 1,24,25
+ 2792.47 498.935 2792.47 498.935 2765.43 498.935 c 0,26,-1
+ 2764.93 498.435 l 1,27,28
+ 2764.93 301.732 2764.93 301.732 2681.78 157.933 c 0,29,30
+ 2582.93 -15.0664 2582.93 -15.0664 2398.81 -15.0098 c 0,31,32
+ 2291.08 -15.0098 2291.08 -15.0098 2227.14 68.0137 c 1,33,34
+ 2164.28 147.701 2164.28 147.701 2164.27 263.392 c 0,35,36
+ 2164.27 429.594 2164.27 429.594 2302.44 546.414 c 0,37,38
+ 2427.06 650.821 2427.06 650.821 2598.93 654.24 c 0,39,-1
+ 2599.51 654.742 l 1,40,41
+ 2599.51 799.965 2599.51 799.965 2528.57 924.914 c 1,42,43
+ 2442.98 1072.49 2442.98 1072.49 2304.35 1072.49 c 0,44,45
+ 2102.78 1072.49 2102.78 1072.49 1972.16 864.184 c 0,46,47
+ 1879.91 716.797 1879.91 716.797 1841.65 470.379 c 0,48,49
+ 1809.05 266.938 1809.05 266.938 1696.66 120.876 c 0,50,51
+ 1591.08 -15.0098 1591.08 -15.0098 1468.79 -15.0098 c 0,52,53
+ 1451.35 -14.8857 1451.35 -14.8857 1433.78 -13.0332 c 0,54,55
+ 1356.82 -4.91895 1356.82 -4.91895 1284.3 34.585 c 128,-1,56
+ 1211.78 74.0889 1211.78 74.0889 1158.31 133.508 c 128,-1,57
+ 1104.85 192.927 1104.85 192.927 1076.25 273.172 c 128,-1,58
+ 1047.64 353.416 1047.64 353.416 1056.45 436.964 c 0,59,60
+ 1059.98 470.666 1059.98 470.666 1080.48 513.434 c 128,-1,61
+ 1100.98 556.201 1100.98 556.201 1127.78 596.682 c 128,-1,62
+ 1154.58 637.163 1154.58 637.163 1184.37 681.527 c 128,-1,63
+ 1214.16 725.892 1214.16 725.892 1236.04 768.562 c 128,-1,64
+ 1257.93 811.233 1257.93 811.233 1268.84 852.22 c 128,-1,65
+ 1279.75 893.207 1279.75 893.207 1268.55 933.093 c 128,-1,66
+ 1257.36 972.978 1257.36 972.978 1221.2 1006 c 0,67,68
+ 1146.28 1072.89 1146.28 1072.89 1055.15 1072.89 c 0,69,-1
+ 1055.11 1072.89 l 1,70,71
+ 981.886 1066.13 981.886 1066.13 933.447 1034.59 c 0,72,73
+ 886.115 1003.03 886.115 1003.03 815.195 874.704 c 0,74,75
+ 760.229 775.994 760.229 775.994 670.543 775.997 c 1,76,77
+ 670.543 775.788 670.543 775.788 658.597 780.526 c 128,-1,78
+ 646.65 785.265 646.65 785.265 633.819 790.65 c 128,-1,79
+ 620.989 796.036 620.989 796.036 619.086 797.306 c 1,80,81
+ 618.986 797.158 618.986 797.158 614.582 801.726 c 128,-1,82
+ 610.176 806.293 610.176 806.293 605.747 811.818 c 128,-1,83
+ 601.317 817.343 601.317 817.343 601.318 819.354 c 0,84,85
+ 601.316 838.367 601.316 838.367 610.312 872.095 c 0,86,-1
+ 610.328 872.224 l 1,87,88
+ 610.327 891.251 610.327 891.251 619.242 906.854 c 0,89,-1
+ 619.283 906.943 l 1,90,91
+ 626.063 927.286 626.063 927.286 627.17 931.714 c 2,92,-1
+ 627.203 931.842 l 1,93,94
+ 587.707 1072.89 587.707 1072.89 444.51 1072.89 c 0,95,96
+ 346.463 1072.89 346.463 1072.89 265.348 1003.04 c 0,97,98
+ 185.338 933.171 185.338 933.171 185.338 835.108 c 0,99,-1
+ 185.367 834.939 l 1,100,101
+ 206.855 774.996 206.855 774.996 253.326 774.997 c 0,102,103
+ 268.83 774.996 268.83 774.996 303.398 740.471 c 1,104,105
+ 298.724 706.923 298.724 706.923 256.355 666.784 c 0,106,107
+ 213.76 627.552 213.76 627.552 185.855 628.67 c 0,108,109
+ 27.7852 634.274 27.7852 634.274 30.0312 854.226 c 0,110,111
+ 32.2773 1030.55 32.2773 1030.55 147.932 1122.63 c 0,112,113
+ 268.102 1219.21 268.102 1219.21 444.475 1219.22 c 1,114,115
+ 498.477 1211.34 498.477 1211.34 554.559 1192.27 c 0,116,117
+ 709.459 1138.39 709.459 1138.39 722.916 1036.34 c 2,118,-1
+ 723.098 1034.96 l 1,119,-1
+ 723.836 1036.14 l 2,120,121
+ 838.396 1219.22 838.396 1219.22 1055.15 1219.22 c 0,122,123
+ 1231.56 1219.21 1231.56 1219.21 1329.21 1112.54 c 0,124,125
+ 1375.97 1061.47 1375.97 1061.47 1393.55 993.37 c 128,-1,126
+ 1411.12 925.267 1411.12 925.267 1406.71 835.133 c 0,127,128
+ 1404.49 789.866 1404.49 789.866 1382.16 741.3 c 128,-1,129
+ 1359.83 692.733 1359.83 692.733 1329.68 650.727 c 128,-1,130
+ 1299.53 608.72 1299.53 608.72 1269.67 567.19 c 128,-1,131
+ 1239.82 525.662 1239.82 525.662 1219.22 480.176 c 128,-1,132
+ 1198.63 434.689 1198.63 434.689 1198.74 393.458 c 0,133,134
+ 1198.76 386.635 1198.76 386.635 1199.17 379.934 c 0,135,136
+ 1203.3 311.862 1203.3 311.862 1244.51 255.126 c 128,-1,137
+ 1285.72 198.391 1285.72 198.391 1342.51 169.702 c 128,-1,138
+ 1399.3 141.014 1399.3 141.014 1453.57 144.339 c 1,0,1
+2599.01 514.157 m 1,139,140
+ 2495.49 490.528 2495.49 490.528 2420.17 430.946 c 1,141,142
+ 2331.33 363.47 2331.33 363.47 2330.22 263.392 c 0,143,144
+ 2327.97 140.81 2327.97 140.81 2417.94 140.798 c 0,145,146
+ 2516.9 140.798 2516.9 140.798 2568.63 310.621 c 0,147,148
+ 2595.63 398.371 2595.63 398.371 2599.01 514.157 c 1,139,140
+EndSplineSet
 EndChar
 
 StartChar: glyph244
