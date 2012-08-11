@@ -1,3 +1,7 @@
+2012-08-11 Aravinda VK <hallimanearavind@gmail.com>
+	* v1.2 Added missing halegannada glyphs due to which fc-scan failed to recognize the language.
+	Closes: #842960 https://bugzilla.redhat.com/show_bug.cgi?id=842960
+
 2011-12-12 Aravinda VK <hallimanearavind@gmail.com>
 	* v1.1 Fixed GSUB issue to display ವು(U0CB5 + U0CC1), ಪು(U0CAA + U0CC1), ಫು(U0CAB + U0CC1)
 
@@ -6,6 +10,6 @@
 	* Added glyph U+25CC. Closes: #429298 http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=429298
 	* Added U+20B9. Indian Rupee symbol, Hyphen minus
 
-Copyright 2011 Aravinda VK <hallimanearavind@gmail.com>
+Copyright 2011-2012 Aravinda VK <hallimanearavind@gmail.com>
 Copying and distribution of this file, with or without modification, are
 permitted provided the copyright notice and this notice are preserved.
